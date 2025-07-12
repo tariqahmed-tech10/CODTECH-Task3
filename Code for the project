@@ -20,15 +20,9 @@ void loop()
 
 int reading = analogRead(sensorPin);
 
-// measure the 5v with a meter for an accurate value
-
-//In particular if your Arduino is USB powered
-
 float voltage = reading * 4.68;
 
 voltage /= 1024.0;
-
-// now print out the temperature
 
 float temperatureC = (voltage - 0.5) * 100;
 
