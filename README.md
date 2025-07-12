@@ -23,4 +23,6 @@ The objective of this project is to use a temperature sensor to read and display
   
 ### CIRCUIT DESIGN
 
-<img width="1061" height="722" alt="image" src="https://github.com/user-attachments/assets/68a60705-1a64-4d39-9bef-f3f1e73b7657" />
+<img width="1061" height="722" alt="image" src="https://github.com/user-attachments/assets/68a60705-1a64-4d39-9bef-f3f1e73b7657"
+
+
