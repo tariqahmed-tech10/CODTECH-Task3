@@ -10,11 +10,9 @@
 
 **Mentor:** Neela Santhosh Kumar
 
-**OVERVIEW OF THE PROJECT**
+OVERVIEW OF THE PROJECT
 
-### PROJECT: Temperature Monitoring System
+**PROJECT:** Temperature Monitoring System
 
-### Objective 
+**Objective**
 The objective of this project is to use a temperature sensor to read and display the temperature data on an LCD Monitor.
-
-
