@@ -20,9 +20,13 @@ void loop()
 
 int reading = analogRead(sensorPin);
 
+
+
 float voltage = reading * 4.68;
 
 voltage /= 1024.0;
+
+
 
 float temperatureC = (voltage - 0.5) * 100;
 
