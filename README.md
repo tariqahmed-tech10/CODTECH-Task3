@@ -20,7 +20,7 @@
 The objective of this project is to use a temperature sensor to read and display the temperature data on an LCD Monitor.
 
 ### Key Activities 
--  Using Tinkercad to set up the circuit using Arduino Uno R3 and TMP36 Temperature.
+-  Using Tinkercad to set up the circuit using Arduino Uno R3 and TMP36 Temperature Sensor.
 -  A LCD Display of dimension 16 * 2 is used   
   
 ### CIRCUIT DESIGN
