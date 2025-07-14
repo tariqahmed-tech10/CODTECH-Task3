@@ -27,4 +27,8 @@ The objective of this project is to use a temperature sensor to read and display
 
 <img width="1061" height="722" alt="image" src="https://github.com/user-attachments/assets/6af9c77a-0be4-42e3-aa16-b33b5db833d2" />
 
+To view the project, please click the below link
+https://www.tinkercad.com/things/czCn3GHEABm-temperature-sensor
+
+
 
